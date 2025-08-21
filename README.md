@@ -1,7 +1,7 @@
 # my-best-003name: CI
 
 on:
-  push:
+  push
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
